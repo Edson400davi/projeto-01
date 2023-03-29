@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{  
+    background-color: #F1F5D1;
+    position: absolute;
+    width: 96rem;
+    height: 178px;
+}
+.img{
+    box-sizing: border-box;
+    position: relative;
+    width: 178px;
+    height: 178px;
+}
+
+/* CSS EDSON */
